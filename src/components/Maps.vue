@@ -782,7 +782,7 @@ export default {
 #reset-button,
 #play-again-button {
     border: none;
-    border-radius: 5px;
+    border-radius: 0px;
     opacity: 0.8;
     color: white;
     font-size: 16px;
