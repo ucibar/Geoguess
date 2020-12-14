@@ -1,3 +1,5 @@
+forked from https://github.com/GeoGuess/Geoguess
+
 ![logo](../master/public/img/icons/android-icon-36x36.png) Geoguess
 ===
 
